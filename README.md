@@ -4,6 +4,12 @@
 
 This web application allows users to upload and analyze CSV files through an intuitive interface. The application provides detailed analysis and visualization of the uploaded data.
 
+## System Requirements
+
+- Python 3.7 or higher
+- Modern web browser (Chrome, Firefox, Safari)
+- Internet connection for initial setup
+
 ## Installation
 
 1. Download the project zip file
@@ -84,12 +90,6 @@ After successful upload, the analysis dashboard will appear showing:
 - Secure file upload system
 - Comprehensive data analysis
 - Interactive visualizations
-
-## System Requirements
-
-- Python 3.7 or higher
-- Modern web browser (Chrome, Firefox, Safari)
-- Internet connection for initial setup
 
 ## Troubleshooting
 
